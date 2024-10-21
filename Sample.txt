@@ -1,0 +1,2 @@
+some data for feature-A
+Edited text
